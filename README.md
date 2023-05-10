@@ -2,7 +2,8 @@
 
 Images can be used for ex. to discord bot that contains item infos etc.
 
-> *U can tip me [here](https://ko-fi.com/1vexys). Big love for ones that donated me!*
+*U can tip me [here](https://ko-fi.com/1vexys). Big love for ones that donated me!*
+
 <sub>Remember to give your discord here when tipping! You can set your tip private.</sub>
 
 
